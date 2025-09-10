@@ -63,16 +63,11 @@ If you don’t have a requirements.txt, typical dependencies are:
 
 pip install numpy pandas scikit-learn matplotlib seaborn
 
-3. Run Training & Evaluation
+3. Run Training & Evaluation: 
 python turbofan_rul_final.py
 
-4. Launch Application
+4. Launch Application: 
 python app.py
-
-
-If web-based → navigate to http://127.0.0.1:5000/
-
-If CLI → follow prompts in the terminal
 
 🛠️ Methodology
 
